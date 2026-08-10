@@ -2,8 +2,8 @@
   "launcher_version": "1.0",
   "mods": [
     {
-      "filename": "jei-1.20.1-15.3.0.4.jar",
-      "download_url": "ТУТ_БУДЕ_ПОСИЛАННЯ_1"
+      "filename": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/raw/refs/heads/main/Bookshelf-Forge-1.20.1-20.2.13.jar"
     },
     {
       "filename": "litovia-custom-systems-1.0.jar",
