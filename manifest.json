@@ -2,12 +2,336 @@
   "launcher_version": "1.0",
   "mods": [
     {
-      "filename": "Bookshelf-Forge-1.20.1-20.2.13.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/raw/refs/heads/main/Bookshelf-Forge-1.20.1-20.2.13.jar"
+      "filename": "airdrop-1.0.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/airdrop-1.0.0.jar"
     },
     {
-      "filename": "litovia-custom-systems-1.0.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/raw/refs/heads/main/airdrop-1.0.0.jar"
+      "filename": "AmbientSounds_FORGE_v6.1.10_mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/AmbientSounds_FORGE_v6.1.10_mc1.20.1.jar"
+    },
+    {
+      "filename": "animation_overhaul-forge-1.20.x-1.3.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/animation_overhaul-forge-1.20.x-1.3.0.jar"
+    },
+    {
+      "filename": "Another.Flashlight.Mod.1.1.0.Forge.1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Another.Flashlight.Mod.1.1.0.Forge.1.20.1.jar"
+    },
+    {
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/appleskin-forge-mc1.20.1-2.5.1.jar"
+    },
+    {
+      "filename": "architectury-9.2.14-forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/architectury-9.2.14-forge.jar"
+    },
+    {
+      "filename": "ashvehicle-4.3-8.8-SNAPSHOT.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/ashvehicle-4.3-8.8-SNAPSHOT.jar"
+    },
+    {
+      "filename": "AttributeFix-Forge-1.20.1-21.0.4.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/AttributeFix-Forge-1.20.1-21.0.4.jar"
+    },
+    {
+      "filename": "badmobs-1.20.1-19.0.4.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/badmobs-1.20.1-19.0.4.jar"
+    },
+    {
+      "filename": "bettercombat-forge-1.8.6+1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/bettercombat-forge-1.8.6+1.20.1.jar"
+    },
+    {
+      "filename": "biggerstacks-1.20.1-1.0.4-all.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/biggerstacks-1.20.1-1.0.4-all.jar"
+    },
+    {
+      "filename": "Bookshelf-Forge-1.20.1-20.2.13.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Bookshelf-Forge-1.20.1-20.2.13.jar"
+    },
+    {
+      "filename": "CameraOverhaul-v2.0.3-forge+mc.1.20.0-1.20.5.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CameraOverhaul-v2.0.3-forge+mc.1.20.0-1.20.5.jar"
+    },
+    {
+      "filename": "CAPS_Awim.s.Tactical.Equipment.v3.0.1.1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CAPS_Awim.s.Tactical.Equipment.v3.0.1.1.20.1.jar"
+    },
+    {
+      "filename": "CAPS_Awims-Tactical-Addon-v1.0.0-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CAPS_Awims-Tactical-Addon-v1.0.0-1.20.1.jar"
+    },
+    {
+      "filename": "caps_awim_tactical_gear_rework-2.6.0208.26_en-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/caps_awim_tactical_gear_rework-2.6.0208.26_en-forge-1.20.1.jar"
+    },
+    {
+      "filename": "cloth-config-11.1.136-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/cloth-config-11.1.136-forge-1.20.1.jar"
+    },
+    {
+      "filename": "configured-forge-1.20.1-2.2.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/configured-forge-1.20.1-2.2.3.jar"
+    },
+    {
+      "filename": "corpse-forge-1.20.1-1.0.20.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/corpse-forge-1.20.1-1.0.20.jar"
+    },
+    {
+      "filename": "corpsecurioscompat-1.18.x-1.20.x-Forge-2.1.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/corpsecurioscompat-1.18.x-1.20.x-Forge-2.1.1.jar"
+    },
+    {
+      "filename": "CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar"
+    },
+    {
+      "filename": "curios-forge-5.11.1-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/curios-forge-5.11.1-1.20.1.jar"
+    },
+    {
+      "filename": "CustomNPCs-1.20.1-GBPort-Unofficial-20250809.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CustomNPCs-1.20.1-GBPort-Unofficial-20250809.jar"
+    },
+    {
+      "filename": "daffas_arsenal-3.6.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/daffas_arsenal-3.6.0.jar"
+    },
+    {
+      "filename": "doomsday_decoration-1.0.9-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/doomsday_decoration-1.0.9-forge-1.20.1.jar"
+    },
+    {
+      "filename": "effortlessbuilding-1.20.1-3.11.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/effortlessbuilding-1.20.1-3.11.jar"
+    },
+    {
+      "filename": "Elite.X.Quality.Guns.Forge.v3.3.-.1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Elite.X.Quality.Guns.Forge.v3.3.-.1.20.1.jar"
+    },
+    {
+      "filename": "embeddium-0.3.31mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/embeddium-0.3.31mc1.20.1.jar"
+    },
+    {
+      "filename": "endlessammo-2.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/endlessammo-2.0.jar"
+    },
+    {
+      "filename": "EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/EnhancedVisuals_FORGE_v1.8.2_mc1.20.1.jar"
+    },
+    {
+      "filename": "fcp-1.0.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/fcp-1.0.1.jar"
+    },
+    {
+      "filename": "firstperson-forge-2.5.0-mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/firstperson-forge-2.5.0-mc1.20.1.jar"
+    },
+    {
+      "filename": "geckolib-forge-1.20.1-4.7.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/geckolib-forge-1.20.1-4.7.jar"
+    },
+    {
+      "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+    },
+    {
+      "filename": "guccivuitton-1.20.1-0.2.2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/guccivuitton-1.20.1-0.2.2.jar"
+    },
+    {
+      "filename": "halflife-1.0.5.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/halflife-1.0.5.jar"
+    },
+    {
+      "filename": "hourglass-1.20-1.2.1.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/hourglass-1.20-1.2.1.1.jar"
+    },
+    {
+      "filename": "ibeeditor-1.20-2.2.8-forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/ibeeditor-1.20-2.2.8-forge.jar"
+    },
+    {
+      "filename": "itemzoom-1.20.1-2.9.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/itemzoom-1.20.1-2.9.0.jar"
+    },
+    {
+      "filename": "lrarmor-1.20.1-0.1.4.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/lrarmor-1.20.1-0.1.4.3.jar"
+    },
+    {
+      "filename": "lrtactical-1.20.1-0.3.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/lrtactical-1.20.1-0.3.0.jar"
+    },
+    {
+      "filename": "marbledsarsenal-1.20.1forge-2.3.0.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/marbledsarsenal-1.20.1forge-2.3.0.3.jar"
+    },
+    {
+      "filename": "mcore-1.20.1-1.0.2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/mcore-1.20.1-1.0.2.jar"
+    },
+    {
+      "filename": "MRU-1.0.4+1.20.1+forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/MRU-1.0.4+1.20.1+forge.jar"
+    },
+    {
+      "filename": "MutantsZombies-1.3.2-Forge-mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/MutantsZombies-1.3.2-Forge-mc1.20.1.jar"
+    },
+    {
+      "filename": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Necronomicon-Forge-1.6.0+1.20.1.jar"
+    },
+    {
+      "filename": "notenoughanimations-forge-1.10.1-mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/notenoughanimations-forge-1.10.1-mc1.20.1.jar"
+    },
+    {
+      "filename": "nuclear_winter-1.0.7-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/nuclear_winter-1.0.7-forge-1.20.1.jar"
+    },
+    {
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/oculus-mc1.20.1-1.8.0.jar"
+    },
+    {
+      "filename": "open-parties-and-claims-forge-1.20.1-0.24.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/open-parties-and-claims-forge-1.20.1-0.24.0.jar"
+    },
+    {
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/player-animation-lib-forge-1.0.2-rc1+1.20.jar"
+    },
+    {
+      "filename": "PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar"
+    },
+    {
+      "filename": "portable_blueprints-v2.0.11-mv1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/portable_blueprints-v2.0.11-mv1.20.1.jar"
+    },
+    {
+      "filename": "Pretty.Rain-1.20.1-Forge-1.1.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Pretty.Rain-1.20.1-Forge-1.1.3.jar"
+    },
+    {
+      "filename": "puffish_attributes-0.7.4-1.20-forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/puffish_attributes-0.7.4-1.20-forge.jar"
+    },
+    {
+      "filename": "radiomod-1.0.0-all.4.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/radiomod-1.0.0-all.4.jar"
+    },
+    {
+      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/SmartBrainLib-forge-1.20.1-1.15.jar"
+    },
+    {
+      "filename": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/sodiumdynamiclights-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "filename": "sodiumextras-forge-1.0.7-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/sodiumextras-forge-1.0.7-1.20.1.jar"
+    },
+    {
+      "filename": "sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/sodiumoptionsapi-forge-1.0.10-1.20.1.jar"
+    },
+    {
+      "filename": "sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/sodiumoptionsmodcompat-forge-1.0.0-1.20.1.jar"
+    },
+    {
+      "filename": "Sona-1.20.1-forge-1.4.2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Sona-1.20.1-forge-1.4.2.jar"
+    },
+    {
+      "filename": "sound-physics-remastered-forge-1.20.1-1.4.13.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/sound-physics-remastered-forge-1.20.1-1.4.13.jar"
+    },
+    {
+      "filename": "spawncapcontrolutility-1.20-46.1.2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/spawncapcontrolutility-1.20-46.1.2.jar"
+    },
+    {
+      "filename": "spore_1.20.1_2.1.3c.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/spore_1.20.1_2.1.3c.jar"
+    },
+    {
+      "filename": "stalkercubedmod-1.0.1c.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/stalkercubedmod-1.0.1c.jar"
+    },
+    {
+      "filename": "stalkercubedreborn_1.0.0_release_forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/stalkercubedreborn_1.0.0_release_forge.jar"
+    },
+    {
+      "filename": "stalkerpda-1.0.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/stalkerpda-1.0.1.jar"
+    },
+    {
+      "filename": "superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/superbwarfare-1.20.1-0.8.8-final-6a6b54795.jar"
+    },
+    {
+      "filename": "survival_instinct-1.0.0-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/survival_instinct-1.0.0-forge-1.20.1.jar"
+    },
+    {
+      "filename": "tacz-1.20.1-1.1.7-hotfix2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/tacz-1.20.1-1.1.7-hotfix2.jar"
+    },
+    {
+      "filename": "taczaddon-1.20.1-1.1.7.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/taczaddon-1.20.1-1.1.7.jar"
+    },
+    {
+      "filename": "taczleaning-1.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/taczleaning-1.0.jar"
+    },
+    {
+      "filename": "TFTH.1.1b.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/TFTH.1.1b.jar"
+    },
+    {
+      "filename": "trol_armor-1.3.1b-forge-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/trol_armor-1.3.1b-forge-1.20.1.jar"
+    },
+    {
+      "filename": "vvp-beta-1.20.1-0.2.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/vvp-beta-1.20.1-0.2.0.jar"
+    },
+    {
+      "filename": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/XaerosWorldMap_1.39.12_Forge_1.20.jar"
+    },
+    {
+      "filename": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar"
+    },
+    {
+      "filename": "yuushya-1.20.1-forge-2.2.3-1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/yuushya-1.20.1-forge-2.2.3-1.20.1.jar"
+    },
+    {
+      "filename": "Zcraft_Decorations-1.0.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zcraft_Decorations-1.0.0.jar"
+    },
+    {
+      "filename": "Zombie-Island-1.20.1-0.1.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zombie-Island-1.20.1-0.1.3.jar"
+    },
+    {
+      "filename": "Zombie.Survival.Kit-1.20.1-forge-2.1.3-fix2.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zombie.Survival.Kit-1.20.1-forge-2.1.3-fix2.jar"
     }
   ]
 }
