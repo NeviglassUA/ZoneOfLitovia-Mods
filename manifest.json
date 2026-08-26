@@ -54,8 +54,8 @@
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CameraOverhaul-v2.0.3-forge+mc.1.20.0-1.20.5.jar"
     },
     {
-      "filename": "CAPS_Awim.s.Tactical.Equipment.v3.0.1.1.20.1.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CAPS_Awim.s.Tactical.Equipment.v3.0.1.1.20.1.jar"
+      "filename": "CAPS_Awims.Tactical.Equipment.v3.0.1.1.20.1.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/CAPS_Awims.Tactical.Equipment.v3.0.1.1.20.1.jar"
     },
     {
       "filename": "CAPS_Awims-Tactical-Addon-v1.0.0-1.20.1.jar",
@@ -64,6 +64,10 @@
     {
       "filename": "caps_awim_tactical_gear_rework-2.6.0208.26_en-forge-1.20.1.jar",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/caps_awim_tactical_gear_rework-2.6.0208.26_en-forge-1.20.1.jar"
+    },
+    {
+      "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/carryon-forge-1.20.1-2.1.2.7.jar"
     },
     {
       "filename": "cloth-config-11.1.136-forge-1.20.1.jar",
@@ -222,8 +226,12 @@
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/puffish_attributes-0.7.4-1.20-forge.jar"
     },
     {
-      "filename": "radiomod-1.0.0-all.4.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/radiomod-1.0.0-all.4.jar"
+      "filename": "radiomod-1.0.0-all.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/radiomod-1.0.0-all.jar"
+    },
+    {
+      "filename": "rbi-1.20.1-0.2.0.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/rbi-1.20.1-0.2.0.jar"
     },
     {
       "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
@@ -306,12 +314,12 @@
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/vvp-beta-1.20.1-0.2.0.jar"
     },
     {
-      "filename": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/XaerosWorldMap_1.39.12_Forge_1.20.jar"
-    },
-    {
       "filename": "Xaeros_Minimap_25.2.10_Forge_1.20.jar",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+    },
+    {
+      "filename": "XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/XaerosWorldMap_1.39.12_Forge_1.20.jar"
     },
     {
       "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
@@ -326,16 +334,12 @@
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zcraft_Decorations-1.0.0.jar"
     },
     {
-      "filename": "Zombie-Island-1.20.1-0.1.3.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zombie-Island-1.20.1-0.1.3.jar"
-    },
-    {
       "filename": "Zombie.Survival.Kit-1.20.1-forge-2.1.3-fix2.jar",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zombie.Survival.Kit-1.20.1-forge-2.1.3-fix2.jar"
     },
     {
-      "filename": "carryon-forge-1.20.1-2.1.2.7.jar",
-      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/carryon-forge-1.20.1-2.1.2.7.jar"
+      "filename": "Zombie-Island-1.20.1-0.1.3.jar",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Zombie-Island-1.20.1-0.1.3.jar"
     }
   ]
 }
