@@ -375,6 +375,11 @@
       "filename": "TACZclassic.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/TACZclassic.zip",
       "folder": "tacz"
+    },
+    {
+      "filename": "options.txt",
+      "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/options.txt",
+      "folder": "root"
     }
   ]
 }
