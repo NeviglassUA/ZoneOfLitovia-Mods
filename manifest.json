@@ -344,30 +344,37 @@
     {
       "filename": "HareTacticsPack-1.1.0.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/HareTacticsPack-1.1.0.zip"
+      "folder": "tacz"
     },
     {
       "filename": "Huinuo.sScope-0.0.8hotfix.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/Huinuo.sScope-0.0.8hotfix.zip"
+      "folder": "tacz"
     },
     {
       "filename": "laffey-1.1.2.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/laffey-1.1.2.zip"
+      "folder": "tacz"
     },
 {
       "filename": "RDPS-V1.6.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/RDPS-V1.6.zip"
+  "folder": "tacz"
     },
     {
       "filename": "RFPv1.0.2release.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/RFPv1.0.2release.zip"
+      "folder": "tacz"
     },
     {
       "filename": "SuffuseGunSmokePack1.0.8-hotfix.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/SuffuseGunSmokePack1.0.8-hotfix.zip"
+      "folder": "tacz"
     },
     {
       "filename": "TACZclassic.zip",
       "download_url": "https://github.com/NeviglassUA/ZoneOfLitovia-Mods/releases/download/v1.0/TACZclassic.zip"
+      "folder": "tacz"
     }
   ]
 }
